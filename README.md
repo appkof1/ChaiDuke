@@ -1,2 +1,2 @@
 # ChaiDuke
-Projects with Chai at Duke University
+Reversibility Project with Chai at Duke University
